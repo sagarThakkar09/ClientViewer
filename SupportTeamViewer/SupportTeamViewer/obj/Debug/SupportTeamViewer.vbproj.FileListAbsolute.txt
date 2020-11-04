@@ -1,0 +1,12 @@
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\bin\Debug\SupportTeamViewer.exe.config
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\bin\Debug\SupportTeamViewer.exe
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\bin\Debug\SupportTeamViewer.pdb
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\bin\Debug\SupportTeamViewer.xml
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.vbprojAssemblyReference.cache
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.Form1.resources
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.Resources.resources
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.vbproj.GenerateResource.cache
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.vbproj.CoreCompileInputs.cache
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.exe
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.xml
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.pdb

@@ -1,0 +1,15 @@
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.vbprojAssemblyReference.cache
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.Form1.resources
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.Resources.resources
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.vbproj.GenerateResource.cache
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.vbproj.CoreCompileInputs.cache
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\bin\Debug\ClientViewer.exe.config
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\bin\Debug\ClientViewer.exe
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\bin\Debug\ClientViewer.pdb
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\bin\Debug\ClientViewer.xml
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\bin\Debug\Newtonsoft.Json.dll
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\bin\Debug\Newtonsoft.Json.xml
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.vbproj.CopyComplete
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.exe
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.xml
+E:\MITT\Co-op Project New\ClientViewer\ClientViewer\obj\Debug\ClientViewer.pdb
