@@ -10,3 +10,6 @@ E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportT
 E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.exe
 E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.xml
 E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.pdb
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\bin\Debug\Newtonsoft.Json.dll
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\bin\Debug\Newtonsoft.Json.xml
+E:\MITT\Co-op Project New\SupportTeamViewer\SupportTeamViewer\obj\Debug\SupportTeamViewer.vbproj.CopyComplete
